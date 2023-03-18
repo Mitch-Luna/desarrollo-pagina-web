@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    margin-top: 34px;
+}
+.padre{
+    background-color: rgb(146, 25, 49);
+    width: 80%;
+    min-width: 30.5rem;
+    max-height: 45rem;
+    min-height: 50rem;
+    border-radius: 1rem;
+    margin: 0 auto;
+}
+.contenedor-titulo{
+    position: relative;
+    top: -15px;
+    background-color: darkgoldenrod;
+    width: 30rem;
+    height: 5rem;
+    margin: 0 auto; 
+}
+figure{
+    width: 30rem;
+    margin: 0 auto;
+}
+.imagen{
+    width: 10rem;
+    margin-left: 10rem;
+}
+
+p{
+    font-size: 1rem;
+}
